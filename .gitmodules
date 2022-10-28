@@ -1,0 +1,15 @@
+[submodule "om-py"]
+	path = om-py
+	url = https://github.com/charlesneimog/om-py
+[submodule "OM-pd"]
+	path = OM-pd
+	url = https://github.com/charlesneimog/OM-pd
+[submodule "py4pd"]
+	path = py4pd
+	url = https://github.com/charlesneimog/py4pd
+[submodule "OM-CKN"]
+	path = OM-CKN
+	url = https://github.com/charlesneimog/OM-CKN
+[submodule "om_py"]
+	path = om_py
+	url = https://github.com/charlesneimog/om_py

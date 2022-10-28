@@ -20,4 +20,4 @@ Um objeto para PureData:
 
 Um módulo para Python:
 
-* [om_py](https://github.com/charlesneimog/om_py): Como deve ficar claro, este módulo é o responsável em traduzir informações de Lisp (OpenMusic e OM-Sharp) para Python e vice-versa.
+* [om_py](https://github.com/charlesneimog/om_py): Como fica claro, este módulo é o responsável em traduzir informações de Lisp (OpenMusic e OM-Sharp) para Python e vice-versa.

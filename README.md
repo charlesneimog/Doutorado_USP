@@ -1,6 +1,6 @@
 # Doutorado - Universidade de São Paulo
 
-Este repositório abriga todos os códigos desenvolvidos durante o processo de doutoramento. Caso esteja lendo minha tese, os tutoriais estão disponíveis no seguinte link.
+Este repositório abriga todos os códigos, testes e tutoriais desenvolvidos durante o processo de doutoramento pela Universidade de São Paulo. Caso esteja lendo minha tese, os tutoriais estão disponíveis no seguinte link.
 
 -------------------
 

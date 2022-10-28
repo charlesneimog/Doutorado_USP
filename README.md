@@ -1,1 +1,1 @@
-# Doutorado---Universidade-de-S-o-Paulo
+# Doutorado - Universidade de São Paulo

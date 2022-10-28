@@ -2,6 +2,8 @@
 
 Este repositório abriga todos os códigos, testes e tutoriais desenvolvidos durante o processo de doutoramento pela Universidade de São Paulo. Caso esteja lendo minha tese, os tutoriais estão disponíveis no seguinte link.
 
+### [Tutoriais](https://github.com/charlesneimog/om-py)
+
 -------------------
 
 Nele há três bibliotecas para OpenMusic e OM-Sharp. Sendo:

@@ -12,7 +12,7 @@ Bibliotecas utilizadas que devem ser baixadas via `Deken`.
 
 A forma de instalar o PureData varia de acordo com seu Sistema Operacional
 
-#### [Windows] (https://github.com/charlesneimog/Doutorado_USP/tree/main/Tutoriais/Windows) 
+#### [Windows](https://github.com/charlesneimog/Doutorado_USP/tree/main/Tutoriais/Windows) 
 
 #### Mac OS
 

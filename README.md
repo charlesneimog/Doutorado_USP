@@ -4,7 +4,7 @@ Este repositório abriga todos os códigos, testes e tutoriais desenvolvidos dur
 
 ### [Tutoriais]([http://stackoverflow.com](https://charlesneimog.notion.site/Tutoriais-adf4b9cab00548359c1d14331c951e1c))
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<a href="https://charlesneimog.notion.site/Tutoriais-adf4b9cab00548359c1d14331c951e1c" target="_blank">external link</a>
 
 -------------------
 

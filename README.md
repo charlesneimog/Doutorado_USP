@@ -4,9 +4,6 @@ Este repositório abriga todos os códigos, testes e tutoriais desenvolvidos dur
 
 ### [Tutoriais](https://charlesneimog.notion.site/Tutoriais-adf4b9cab00548359c1d14331c951e1c)
 
-
-<a href="#" target="_blank" rel="noopener noreferrer">https://charlesneimog.notion.site/Tutoriais-adf4b9cab00548359c1d14331c951e1c</a>
-
 -------------------
 
 Nele há três bibliotecas para OpenMusic e OM-Sharp. Sendo:

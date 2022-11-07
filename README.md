@@ -16,7 +16,7 @@ Nele há três bibliotecas para OpenMusic e OM-Sharp. Sendo:
 
 Um objeto para PureData:
 
-* [py4pd](https://github.com/charlesneimog/py4pd): Objeto para PureData desenvolvido para utilizar scripts Python. Diferente de [py/pyext](https://github.com/grrrr/py), este objeto é facilmente utilizável em todas as plataformas assim como não necessidade de uma instalação de Python (somente no Windows neste momento).
+* [py4pd](https://github.com/charlesneimog/py4pd): Objeto para PureData desenvolvido para utilizar scripts Python. Diferente de [py/pyext](https://github.com/grrrr/py), este objeto é facilmente utilizável em todas as plataformas assim como não necessita de uma instalação de Python (somente no Windows neste momento).
 
 -------------------
 

@@ -1,6 +1,6 @@
 # Doutorado - Universidade de São Paulo
 
-Este repositório abriga todos os códigos, testes e tutoriais desenvolvidos durante o processo de doutoramento em Musicologia pela Universidade de São Paulo sob orientação do Prof. Dr. Rodolfo Coelho de Souza. `Caso esteja lendo minha tese`, os tutoriais estão disponíveis no seguinte link.
+Este repositório abriga todos os códigos, testes e tutoriais desenvolvidos durante o processo de doutoramento em Musicologia pela Universidade de São Paulo sob orientação do Prof. Dr. Rodolfo Coelho de Souza. *_Caso esteja lendo minha tese_*, os tutoriais estão disponíveis no seguinte link.
 
 ### [Tutoriais](https://charlesneimog.notion.site/Tutoriais-adf4b9cab00548359c1d14331c951e1c)
 
